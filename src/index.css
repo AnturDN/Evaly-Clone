@@ -52,7 +52,7 @@
 .singin {
     display: flex;
     align-items: center;
-    gap: 5px;
+    gap: 6px;
     cursor: pointer;
 }
 .singin span{
