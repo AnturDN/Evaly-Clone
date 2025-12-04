@@ -6,9 +6,9 @@ const Navbar = () => {
    <div className='page_container'>
      <div className="pages">
             <ul>
-                <li><a class="fa-solid fa-house"></a><a href="/">Home</a></li>
-                <li><a class="fa-solid fa-store"></a><a href="/store">Store</a></li>
-                <li><a class="fa-solid fa-table-list"></a><a href="/categories">Categories</a></li>
+                <li><i class="fa-solid fa-house"></i><a href="/">Home</a></li>
+                <li><i class="fa-solid fa-store"></i><a href="/store">Store</a></li>
+                <li><i class="fa-solid fa-table-list"></i><a href="/categories">Categories</a></li>
             </ul>
         </div>
    </div>
