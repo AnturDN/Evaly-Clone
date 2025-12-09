@@ -23,7 +23,7 @@
 }
 .card2_slider{
     display: flex;
-    gap: 16px;
+    gap: 15px;
     overflow-x: auto;
     scroll-behavior: smooth;
     padding: 20px 0;
