@@ -2,6 +2,7 @@ import React from 'react'
 
 const Navbar = () => {
   return (
+    //Added the navbar
    <div className='page_container'>
      <div className="pages">
             <ul>
