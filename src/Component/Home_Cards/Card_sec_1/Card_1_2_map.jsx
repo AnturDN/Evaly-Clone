@@ -113,7 +113,6 @@ const Card1_map = () => {
 
   return (
 
-
     <div className="main_container">
       <div className="container">
         <div className="bg_img">
