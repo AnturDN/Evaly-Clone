@@ -4,7 +4,6 @@ import './Card2.css'
 const Card2 = ({img2, detailes2}) => {
   return (
     <div className='card2'>
-
         <div className="card2_img">
             <img src={img2} alt="" />
         </div>
@@ -12,7 +11,6 @@ const Card2 = ({img2, detailes2}) => {
         <div className="detailes">
             <span>{detailes2}</span>
         </div>
-        
     </div>
   )
 }
